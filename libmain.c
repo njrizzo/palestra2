@@ -8,8 +8,8 @@ int getMajorVersion(void);
 
 
 int
-getMajoVersion(void)
+getMajorVersion(void)
 {
-	return MAIJORVERSION;
+	return MAJORVERSION;
 }
 
